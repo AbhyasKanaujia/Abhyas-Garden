@@ -1,0 +1,5 @@
+---
+title: exploration
+---
+
+[[Google Earth]]
